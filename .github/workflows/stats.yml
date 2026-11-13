@@ -1,0 +1,30 @@
+name: refresh-stats
+
+on:
+  push:
+    paths: ['log.csv']
+  schedule:
+    - cron: '30 18 * * *'      # 00:00 IST, so the streak rolls over on time
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python stats.py
+      - name: Commit refreshed card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stats PROBLEMS.md
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh stats"
+            git push
+          fi
