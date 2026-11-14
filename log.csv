@@ -1,2 +1,4 @@
 date,platform,problem,category,path
 2026-11-14,logicode,flippy_bits,Sequences,logicode/flippy_bits.sv
+2026-11-14,hdlbits,Growing Pulse,Vectors,hdlbits/growing_pulse.v
+2026-11-14,logicode,Growing Pulse,Vectors,logicode/growing_pulse.v
