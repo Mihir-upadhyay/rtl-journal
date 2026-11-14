@@ -1,5 +1,5 @@
 // Platform : HDLBits
-// Problem  : Growing Pulse
+// Problem  : andgate
 // Category : Vectors
 // Solved   : 2026-11-14
 // Approach :
