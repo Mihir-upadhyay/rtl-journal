@@ -6,3 +6,5 @@ date,platform,problem,category,path
 2026-11-14,hdlbits,Wire4,Vectors,hdlbits/wire4.v
 2026-11-14,hdlbits,notgate,Vectors,hdlbits/notgate.v
 2026-11-14,hdlbits,andgate,Vectors,hdlbits/andgate.v
+2026-11-14,hdlbits,zero,Vectors,hdlbits/zero.v
+2026-11-14,hdlbits,step_one,Vectors,hdlbits/step_one.v

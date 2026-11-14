@@ -1,8 +1,8 @@
 # Solved problems
 
-**7** unique problems | current streak **1** | best streak **1**
+**9** unique problems | current streak **1** | best streak **1**
 
-## HDLBits (5)
+## HDLBits (7)
 
 | Date | Problem | Category | Solution |
 | :-- | :-- | :-- | :-- |
@@ -11,6 +11,8 @@
 | 2026-11-14 | Wire4 | Vectors | [code](hdlbits/wire4.v) |
 | 2026-11-14 | notgate | Vectors | [code](hdlbits/notgate.v) |
 | 2026-11-14 | andgate | Vectors | [code](hdlbits/andgate.v) |
+| 2026-11-14 | zero | Vectors | [code](hdlbits/zero.v) |
+| 2026-11-14 | step_one | Vectors | [code](hdlbits/step_one.v) |
 
 ## Logicode (2)
 
