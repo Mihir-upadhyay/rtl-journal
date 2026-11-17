@@ -1,11 +1,16 @@
 # Solved problems
 
+<<<<<<< Updated upstream
 **9** unique problems | current streak **0** | best streak **1**
+=======
+**10** unique problems | current streak **1** | best streak **1**
+>>>>>>> Stashed changes
 
-## HDLBits (7)
+## HDLBits (8)
 
 | Date | Problem | Category | Solution |
 | :-- | :-- | :-- | :-- |
+| 2026-11-17 | NOR_GATE | Vectors | [code](hdlbits/nor_gate.v) |
 | 2026-11-14 | Growing Pulse | Vectors | [code](hdlbits/growing_pulse.v) |
 | 2026-11-14 | Wire | Vectors | [code](hdlbits/wire.v) |
 | 2026-11-14 | Wire4 | Vectors | [code](hdlbits/wire4.v) |

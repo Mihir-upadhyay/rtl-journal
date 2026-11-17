@@ -8,3 +8,4 @@ date,platform,problem,category,path
 2026-11-14,hdlbits,andgate,Vectors,hdlbits/andgate.v
 2026-11-14,hdlbits,zero,Vectors,hdlbits/zero.v
 2026-11-14,hdlbits,step_one,Vectors,hdlbits/step_one.v
+2026-11-17,hdlbits,NOR_GATE,Vectors,hdlbits/nor_gate.v
