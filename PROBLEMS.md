@@ -1,10 +1,6 @@
 # Solved problems
 
-<<<<<<< Updated upstream
-**9** unique problems | current streak **0** | best streak **1**
-=======
 **10** unique problems | current streak **1** | best streak **1**
->>>>>>> Stashed changes
 
 ## HDLBits (8)
 
