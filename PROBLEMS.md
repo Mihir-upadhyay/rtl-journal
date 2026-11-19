@@ -1,6 +1,6 @@
 # Solved problems
 
-**10** unique problems | current streak **1** | best streak **1**
+**10** unique problems | current streak **0** | best streak **1**
 
 ## HDLBits (8)
 
